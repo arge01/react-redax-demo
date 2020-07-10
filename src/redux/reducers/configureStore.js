@@ -4,7 +4,7 @@
 * createstore çağardık
 * bunu 1 kere ayarlıyoruz
  */
-import { createStore, applyMiddleware, /*compose*/ } from 'redux';
+import { createStore, /*compose*/ } from 'redux';
 import reducers from './index';
 
 //import { composeWithDevTools } from 'redux-devtools-extension';
