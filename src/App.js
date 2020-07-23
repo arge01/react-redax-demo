@@ -8,7 +8,7 @@ import EmptyCounter    from "./components/Counter/EmptyCounter";
 function App() {
   return (
       <main className="main">
-          <div className="">
+          <div className="count">
               <IncreaseCounter />
               <Counter />
               <DecreaseCounter />
