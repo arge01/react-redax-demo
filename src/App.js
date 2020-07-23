@@ -9,10 +9,7 @@ function App() {
   return (
       <main className="main">
           <div className="count">
-              <IncreaseCounter />
               <Counter />
-              <DecreaseCounter />
-              <EmptyCounter />
           </div>
       </main>
   );
