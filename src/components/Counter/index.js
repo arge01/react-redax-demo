@@ -3,8 +3,6 @@
  */
 import React, { Component } from 'react';
 import { connect } from 'react-redux';
-import { HooksDemo } from '../hooksdemo';
-import ClassComponent from '../classDemo';
 import Axios from 'axios';
 
 class Counter extends Component {
